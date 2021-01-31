@@ -1,4 +1,4 @@
-# Generate Music Token
+# Generate Apple Music Token
 Generate an Apple Music token.
 
 Create a `.env` file and set the following values
